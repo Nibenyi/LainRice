@@ -29,6 +29,7 @@ bspc config focus_follows_pointer true
 # AUTOSTART {{{
 
 xset m 1 1 &
+xsetroot -cursor_name left_ptr &
 xscreensaver &
 wal -R 
 feh --bg-center ~/Pictures/Wallpapers/wallpaperlainfloat1.png
